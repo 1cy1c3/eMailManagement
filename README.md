@@ -1,4 +1,4 @@
-eMailManagement
+Email Management
 ===============
 
 ## Description
