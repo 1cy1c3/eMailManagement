@@ -6,6 +6,7 @@ Manages electronic mails of contacts.
 
 ## Prerequisites
 
++ JDK
 + JRE
 
 ## Usage
